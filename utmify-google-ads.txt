@@ -1,0 +1,6 @@
+Modelo de acompanhamento / URL com UTMs para Google Ads:
+
+{lpurl}?utm_source=google&utm_campaign={campaignid}&utm_medium={adgroupid}&utm_content={creative}&utm_term={placement}::{keyword}&keyword={keyword}&device={device}&network={network}
+
+Observação:
+Use este modelo no Google Ads, não dentro do HTML da página.
